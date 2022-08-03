@@ -1,0 +1,6 @@
+#!/bin/bash
+
+gnome-terminal \
+  --tab -e "bash -c '/home/user/.start_rosmaster; bash'" \
+  --tab -e "bash -c 'sleep 1; /home/user/.ros_node1; bash'" \
+  --tab -e "bash -c 'sleep 1; /home/user/.ros_node2; bash'" \

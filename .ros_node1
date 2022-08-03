@@ -1,0 +1,11 @@
+#!/bin/bash
+
+# Change the ROS distro to the version you are developing on
+source /opt/ros/noetic/setup.bash
+
+# source the ROS workspace
+# If you are using multiple ROS workspaces, you can also source them up at the same time 
+source /home/user/workspace/devel/setup.bash
+
+# Your ROS command to execute the ROS nodes, launch files
+roslaunch your_package_name your_launch_file.launch
