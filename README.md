@@ -70,13 +70,13 @@ You can download the example files in this repository and put them in the home d
 The first image will show you the looks of the startup application app
 
 <p align="center">
-  <img src="https://github.com/gmp-prem/launch-multiple-terminals-commands/images/1.png" width="500" height="300">
+  <img src="https://github.com/gmp-prem/launch-multiple-terminals-commands/blob/main/images/1.png" width="500" height="300">
 </p>
 
 Next, add the startup service and type in the neccessary information, the second picture here will show you the command that needs to be in.
 
 <p align="center">
-  <img src="https://github.com/gmp-prem/launch-multiple-terminals-commands/images/2.png" width="500" height="300">
+  <img src="https://github.com/gmp-prem/launch-multiple-terminals-commands/blob/main/images/2.png" width="500" height="300">
 </p>
 
 `Name` : name of your startup service
@@ -84,10 +84,8 @@ Next, add the startup service and type in the neccessary information, the second
 `Comment` : the detail of the startup service
 
 <p align="center">
-  <img src="https://github.com/gmp-prem/launch-multiple-terminals-commands/images/3.png" width="500" height="300">
+  <img src="https://github.com/gmp-prem/launch-multiple-terminals-commands/blob/main/images/3.png" width="500" height="300">
 </p>
-
-
 
 The last image will show you the command to launch the `.robot_bringup`, so, you can just follow my commands
 
